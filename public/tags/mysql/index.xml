@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MySQL on Anam Raihan</title>
+    <link>https://researchweb.iiit.ac.in/~raihan.md/tags/mysql/</link>
+    <description>Recent content in MySQL on Anam Raihan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://researchweb.iiit.ac.in/~raihan.md/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mini SQL Engine</title>
+      <link>https://researchweb.iiit.ac.in/~raihan.md/project/minisql/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://researchweb.iiit.ac.in/~raihan.md/project/minisql/</guid>
+      <description>A Mini-SQL engine which will run a subset of SQL queries using command line interface.</description>
+    </item>
+    
+  </channel>
+</rss>

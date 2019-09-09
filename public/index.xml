@@ -1,0 +1,62 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anam Raihan on Anam Raihan</title>
+    <link>https://researchweb.iiit.ac.in/~raihan.md/</link>
+    <description>Recent content in Anam Raihan on Anam Raihan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0530</lastBuildDate>
+    <atom:link href="/~raihan.md/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wikipedia Search Engine</title>
+      <link>https://researchweb.iiit.ac.in/~raihan.md/project/wikipedia-search-engine/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://researchweb.iiit.ac.in/~raihan.md/project/wikipedia-search-engine/</guid>
+      <description>&lt;!-- An autoencoder(AE) is a type of artificial neural network used to learn efficient data encodings in an unsupervised manner. A variational autoencoder(VAE) is a specific type of autoencoder that helps to &#39;learn&#39; complex probabilistic models based on the input data set. Using the learned representative models (also called latent space), we can generate &#39;novel&#39; and &#39;unseen&#39; variations of the learned latent space. In this project, we try to build variational autoencoders for image generation on MNIST,CIFAR10 and CALTECH101 dataset. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mining-and-Summarising-Customer-Review</title>
+      <link>https://researchweb.iiit.ac.in/~raihan.md/project/mining-and-summarising-customer-review/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://researchweb.iiit.ac.in/~raihan.md/project/mining-and-summarising-customer-review/</guid>
+      <description>&lt;!-- An autoencoder(AE) is a type of artificial neural network used to learn efficient data encodings in an unsupervised manner. A variational autoencoder(VAE) is a specific type of autoencoder that helps to &#39;learn&#39; complex probabilistic models based on the input data set. Using the learned representative models (also called latent space), we can generate &#39;novel&#39; and &#39;unseen&#39; variations of the learned latent space. In this project, we try to build variational autoencoders for image generation on MNIST,CIFAR10 and CALTECH101 dataset. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mini SQL Engine</title>
+      <link>https://researchweb.iiit.ac.in/~raihan.md/project/minisql/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://researchweb.iiit.ac.in/~raihan.md/project/minisql/</guid>
+      <description>&lt;!-- An autoencoder(AE) is a type of artificial neural network used to learn efficient data encodings in an unsupervised manner. A variational autoencoder(VAE) is a specific type of autoencoder that helps to &#39;learn&#39; complex probabilistic models based on the input data set. Using the learned representative models (also called latent space), we can generate &#39;novel&#39; and &#39;unseen&#39; variations of the learned latent space. In this project, we try to build variational autoencoders for image generation on MNIST,CIFAR10 and CALTECH101 dataset. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Movie Rating Predictions</title>
+      <link>https://researchweb.iiit.ac.in/~raihan.md/project/movie-rating-predictions/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://researchweb.iiit.ac.in/~raihan.md/project/movie-rating-predictions/</guid>
+      <description>&lt;!-- An autoencoder(AE) is a type of artificial neural network used to learn efficient data encodings in an unsupervised manner. A variational autoencoder(VAE) is a specific type of autoencoder that helps to &#39;learn&#39; complex probabilistic models based on the input data set. Using the learned representative models (also called latent space), we can generate &#39;novel&#39; and &#39;unseen&#39; variations of the learned latent space. In this project, we try to build variational autoencoders for image generation on MNIST,CIFAR10 and CALTECH101 dataset. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Task Management App</title>
+      <link>https://researchweb.iiit.ac.in/~raihan.md/project/task-management-app/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://researchweb.iiit.ac.in/~raihan.md/project/task-management-app/</guid>
+      <description>&lt;!-- An autoencoder(AE) is a type of artificial neural network used to learn efficient data encodings in an unsupervised manner. A variational autoencoder(VAE) is a specific type of autoencoder that helps to &#39;learn&#39; complex probabilistic models based on the input data set. Using the learned representative models (also called latent space), we can generate &#39;novel&#39; and &#39;unseen&#39; variations of the learned latent space. In this project, we try to build variational autoencoders for image generation on MNIST,CIFAR10 and CALTECH101 dataset. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

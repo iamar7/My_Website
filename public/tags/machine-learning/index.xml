@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Anam Raihan</title>
+    <link>https://researchweb.iiit.ac.in/~raihan.md/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Anam Raihan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://researchweb.iiit.ac.in/~raihan.md/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Movie Rating Predictions</title>
+      <link>https://researchweb.iiit.ac.in/~raihan.md/project/movie-rating-predictions/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://researchweb.iiit.ac.in/~raihan.md/project/movie-rating-predictions/</guid>
+      <description>The project aimed to predict and identify the major factors affected the movie ratings from the dataset provided. Useful features were extracted from classifying techniques like support vector machine</description>
+    </item>
+    
+  </channel>
+</rss>
